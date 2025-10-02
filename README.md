@@ -58,3 +58,14 @@ GET /api/tasks: Get all tasks for the authenticated user
 POST /api/tasks: Create a new task
 PUT /api/tasks/:id: Update a task
 DELETE /api/tasks/:id: Delete a task
+
+# TaskMaster
+A simple full-stack task management application built with React, Node.js, Express, and MongoDB.
+
+## Features
+- User authentication (signup/login) with JWT
+- Create, read, update, and delete tasks
+- Responsive UI with Tailwind CSS
+- RESTful API for task management
+- MongoDB for persistent storage
+...
